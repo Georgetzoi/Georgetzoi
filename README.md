@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Georgetzoi
+- 👀 I’m interested in Cars🏎, Music🎵 and Cooking🍕
+- 🌱 I’m currently learning HTML, CSS, JS and React
